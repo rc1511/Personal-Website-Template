@@ -2,37 +2,24 @@
 
 // Write Basic Information
 export const basicinfo = {
-    yourName: "Your Name",
-    email: "user@gmail.com",
-    phone: "+919876543210",
-    website: "https://your-name.me/"
+    yourName: "Rima Chavda",
+    email: "rimakc.91@gmail.com",
+    phone: "540-471-6730",
 }
 
 // Provide your personal information here and add more
 export const infoList = [
     {
-        key: "Full name",
-        value: "Your Full Name"
+        key: "Rima Chavda",
+        value: "Rima Chavda"
     },{
-        key: "Birth Place",
+        key: "Georgia",
         value: "Duis aute, irure dolor, in reprehenderit"
     },{
-        key: "Date of Birth",
-        value: "23/09/1967"
-    },{
-        key: "Gender",
-        value: "Male"
-    },{
-        key: "Parent",
-        value: "Father Name & Mother Name"
-    },{
-        key: "Address",
-        value: "Minim veniam, quis"
-    },{
-        key: "Company",
+        key: "Federal Reserve Board",
         value: "Consequat"
     },{
-        key: "Currently",
+        key: "Policy Analyst",
         value: "Your position"
     }
 ];
@@ -40,29 +27,15 @@ export const infoList = [
 // Provide your academics information here and add more
 export const academicinfoList = [
     {
-        name: "consectetur adipiscing elit",
-        location: "adipiscing, YashHj, Uio",
-        course: "incididunt",
-        year: "1990-1995",
-        score: "9.6"
+        name: "Georgetown University",
+        location: "Washington, DC",
+        course: "MBA",
+        year: "2021-2024"
     },{
-        name: "consectetur adipiscing elit",
-        location: "adipiscing, YashHj, Uio",
-        course: "incididunt",
-        year: "1990-1995",
-        score: "9.6"
-    },{
-        name: "consectetur adipiscing elit",
-        location: "adipiscing, YashHj, Uio",
-        course: "incididunt",
-        year: "1990-1995",
-        score: "9.6"
-    },{
-        name: "consectetur adipiscing elit",
-        location: "adipiscing, YashHj, Uio",
-        course: "incididunt",
-        year: "1990-1995",
-        score: "9.6"
+        name: "Virginia Commonwealth University",
+        location: "Richmond, Virginia",
+        course: "Political Science and Economics",
+        year: "2015-2019"
     }
 ];
 
@@ -129,17 +102,7 @@ export const experienceinfoList = [
 export const socialinfoList = [
     {
         name: "linkedin",
-        link: "#"
-    },{
-        name: "github",
-        link: "#"
-    },{
-        name: "medium",
-        link: "#"
-    },{
-        name: "facebook",
-        link: "#"
-    }
+        link: "https://www.linkedin.com/in/rima-chavda-545268139/"
 ];
 
 // Provide your Hobbies information here and add more
